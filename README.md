@@ -1,11 +1,6 @@
 # Software_Testing_Portfolio
-This repository highlights my work as a Manual Software Tester, featuring test cases, test plans, and bug reports. It demonstrates my skills in identifying software defects and ensuring quality through detailed manual testing.
 
-
-
-# Software Testing Portfolio
-
-Hi, I’m Nikita , a dedicated software tester specializing in testing Adobe Camera Raw and its plugins for Photoshop, Bridge, and After Effects.
+Hi, I’m Nikita , a dedicated software tester This repository highlights my work as a Manual Software Tester, featuring test cases, test plans, and bug reports. It demonstrates my skills in identifying software defects and ensuring quality through detailed manual testing. specializing in testing Adobe Camera Raw and its plugins for Photoshop, Bridge, and After Effects.
 
 ---
 
